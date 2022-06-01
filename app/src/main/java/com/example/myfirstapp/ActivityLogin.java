@@ -7,6 +7,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class ActivityLogin extends AppCompatActivity {
@@ -15,15 +17,19 @@ public class ActivityLogin extends AppCompatActivity {
     Button buttonLogin;
 
     private void getComponents(){
-        editTextLoginUsuario = findViewById(R.id.editTextLoginUsuario);
-        editTextLoginPassword = findViewById(R.id.editTextLoginPassword);
+        editTextLoginUsuario = findViewById(R.id.editTextUsuario);
+        editTextLoginPassword = findViewById(R.id.editTextSenha);
+
         buttonLogin = findViewById(R.id.buttonLogin);
     }
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
         getComponents();
+        getSupportActionBar().hide();
     }
 
     @Override

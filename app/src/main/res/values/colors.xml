@@ -10,5 +10,7 @@
     <color name="Light_pink">#FF54FF</color>
     <color name="Pink">#FF008E</color>
     <color name="Light_orange">#FFAC7A</color>
+    <color name="Cyan">#08B2E3</color>
+    <color name="Space">#202C59</color>
 
 </resources>
