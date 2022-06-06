@@ -5,8 +5,10 @@
       <map>
         <entry key="..\:/Users/Filipe Vieira/AndroidStudioProjects/MyFirstApp/app/src/main/res/drawable/background.xml" value="0.332" />
         <entry key="..\:/Users/Filipe Vieira/AndroidStudioProjects/MyFirstApp/app/src/main/res/drawable/button.xml" value="0.345" />
+        <entry key="..\:/Users/Filipe Vieira/AndroidStudioProjects/MyFirstApp/app/src/main/res/drawable/button_new_game.xml" value="0.3405" />
         <entry key="..\:/Users/Filipe Vieira/AndroidStudioProjects/MyFirstApp/app/src/main/res/drawable/container_components.xml" value="0.332" />
         <entry key="..\:/Users/Filipe Vieira/AndroidStudioProjects/MyFirstApp/app/src/main/res/drawable/edit_text.xml" value="0.332" />
+        <entry key="..\:/Users/Filipe Vieira/AndroidStudioProjects/MyFirstApp/app/src/main/res/layout/activity_game.xml" value="0.25" />
         <entry key="..\:/Users/Filipe Vieira/AndroidStudioProjects/MyFirstApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/Filipe Vieira/AndroidStudioProjects/MyFirstApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
